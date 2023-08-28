@@ -1,4 +1,4 @@
-Programs as part of the Artificial Intelligence-1 Laboratory course in my 2nd year of undergrad.
+List of Programs:
 
 1. Write a program to implement Breadth First Search. 
 2. Write a program to implement Depth First Search.
