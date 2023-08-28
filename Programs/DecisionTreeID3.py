@@ -2,7 +2,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-df=pd.read_csv('/content/drive/MyDrive/DATASETS/Covid.csv')
+df=pd.read_csv('Covid.csv')
 df.head()
 df.info()
 df.columns
