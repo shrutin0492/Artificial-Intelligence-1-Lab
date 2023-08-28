@@ -2,7 +2,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-df=pd.read_csv('Covid.csv')
+df=pd.read_csv('Covid.csv') #make sure to tailor this path if needed!
 df.head()
 df.info()
 df.columns
