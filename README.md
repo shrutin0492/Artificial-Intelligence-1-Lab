@@ -55,5 +55,7 @@ The data sets used for training and testing the programs are located in the [Dat
 
 ## Usage
 
-1. Clone the repository to your local machine.
-2. Open the `ai_lab_2023.ipynb` file in Google Colab to run the programs.
+1. Clone the repository to your local machine using the following command:
+   git clone https://github.com/shrutin567/your-repo-name.git
+
+3. Open the `ai_lab_2023.ipynb` file in Google Colab to run the programs.
