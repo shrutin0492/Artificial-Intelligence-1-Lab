@@ -2,7 +2,7 @@
 
 import cv2
 from google.colab.patches import cv2_imshow
-img = cv2.imread('/content/drive/MyDrive/DATASETS/im1.jfif', cv2.IMREAD_UNCHANGED)
+img = cv2.imread('im1.jfif', cv2.IMREAD_UNCHANGED)
 cv2_imshow(img)
 # Convert to graycsale
 img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
@@ -21,7 +21,7 @@ edges = cv2.Canny(image=img_blur, threshold1=100, threshold2=200) # Canny Edge D
 cv2_imshow(edges)
 from PIL import Image as im
 edge_img = im.fromarray(edges)
-edge_img.save('/content/drive/MyDrive/DATASETS/im2.jfif')
+edge_img.save('/content/drive/MyDrive/DATASETS/im2.jfif') #Make sure to tailor this path!
 
 """
 #Final Output Only
