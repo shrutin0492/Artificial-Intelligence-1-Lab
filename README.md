@@ -9,13 +9,13 @@ This repository contains a collection of programs developed as part of the Artif
 
 ## Programs List
 
-1. **Breadth First Search (BFS) Implementation**
-   - Description: This program implements the Breadth First Search algorithm.
-   - File: [BFS.py](BFS.py)
-
-2. **Depth First Search (DFS) Implementation**
+1. **Depth First Search (DFS) Implementation**
    - Description: This program implements the Depth First Search algorithm.
    - File: [DFS.py](DFS.py)
+
+2. **Breadth First Search (BFS) Implementation**
+   - Description: This program implements the Breadth First Search algorithm.
+   - File: [BFS.py](BFS.py)
 
 3. **Tower of Hanoi Problem**
    - Description: This program solves the Tower of Hanoi problem using a recursive approach.
