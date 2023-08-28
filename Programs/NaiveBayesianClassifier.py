@@ -8,7 +8,7 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import confusion_matrix, classification_report
 from sklearn.metrics import ConfusionMatrixDisplay
 
-df = pd.read_csv('/content/drive/MyDrive/DATASETS/Heart.csv')
+df = pd.read_csv('Heart.csv')
 df.head()
 df.info()
 print("Number of records in each label are")
