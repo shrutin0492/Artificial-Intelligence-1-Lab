@@ -31,7 +31,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Read the image
-image = cv2.imread('/content/drive/MyDrive/DATASETS/im1.jfif')
+image = cv2.imread('im1.jfif')
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 # Face detection
