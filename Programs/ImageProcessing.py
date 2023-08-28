@@ -2,7 +2,7 @@
 
 import cv2
 from google.colab.patches import cv2_imshow
-img = cv2.imread('im1.jfif', cv2.IMREAD_UNCHANGED)
+img = cv2.imread('im1.jfif', cv2.IMREAD_UNCHANGED) #make sure to tailor this path if needed!
 cv2_imshow(img)
 # Convert to graycsale
 img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
@@ -31,7 +31,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Read the image
-image = cv2.imread('im1.jfif')
+image = cv2.imread('im1.jfif') #make sure to tailor this path if needed!
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 # Face detection
@@ -60,5 +60,9 @@ plt.subplot(1, 2, 2)
 plt.title("Edge Image")
 plt.imshow(edges, cmap='gray')
 plt.show()
+
+from PIL import Image as im
+edge_img = im.fromarray(edges)
+edge_img.save('/content/drive/MyDrive/DATASETS/im2.jfif') #Make sure to tailor this path!
 
 """
