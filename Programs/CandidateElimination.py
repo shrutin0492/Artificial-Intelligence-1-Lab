@@ -2,7 +2,7 @@
 import numpy as np
 import pandas as pd
 
-data = pd.read_csv('/content/drive/MyDrive/DATASETS/ENJOYSPORT.csv')
+data = pd.read_csv('ENJOYSPORT.csv')
 concepts = np.array(data.iloc[:,0:-1])
 print("\nInstances are:\n",concepts)
 target = np.array(data.iloc[:,-1])
@@ -54,7 +54,7 @@ a = []
 
 print("\nThe Given Training Data Set")
 
-with open('/content/drive/MyDrive/DATASETS/ENJOYSPORT.csv', 'r') as csvFile:
+with open('ENJOYSPORT.csv', 'r') as csvFile:
     reader = csv.reader(csvFile)
     for row in reader:
         a.append(row)
