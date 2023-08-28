@@ -1,6 +1,6 @@
 # Artificial Intelligence-1 Laboratory Programs
 
-This repository contains a collection of programs developed as part of the Artificial Intelligence-1 Laboratory course during the 2nd year of my undergrad.
+This repository contains a collection of programs completed as part of the Artificial Intelligence-1 Laboratory course during the 2nd year of my undergrad.
 
 # About 
 
