@@ -1,4 +1,4 @@
-#1. DFS
+#DFS
 from collections import defaultdict
 
 class Graph:
