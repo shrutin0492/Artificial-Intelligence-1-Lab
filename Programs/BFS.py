@@ -1,4 +1,4 @@
-#2. BFS
+#BFS
 from collections import defaultdict
 
 class Graph:
