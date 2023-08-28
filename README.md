@@ -55,9 +55,20 @@ The data sets used for training and testing the programs are located in the [Dat
 
 ## Usage
 
-1. Clone the repository to your local machine using the following command:
+## Usage
+
+1 Open the ai_lab_2023.ipynb file in Google Colab to run and experiment with the programs.
+2.
+
+. **Clone the repository:**
+
+   Open a terminal or command prompt on your local machine.
+
+   Navigate to the directory where you want to store the cloned repository using the `cd` command. For example:
+   
    ```bash
-   git clone https://github.com/shrutin567/your-repo-name.git
+   cd Documents
 
-
-3. Open the `ai_lab_2023.ipynb` file in Google Colab to run the programs.
+Clone the repository by executing the following command (replace your-repo-name with the actual name of your repository):
+```bash
+git clone https://github.com/shrutin567/your-repo-name.git
