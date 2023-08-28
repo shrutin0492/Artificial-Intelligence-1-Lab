@@ -2,7 +2,7 @@
 import numpy as np
 import pandas as pd
 
-data = pd.read_csv('ENJOYSPORT.csv')
+data = pd.read_csv('ENJOYSPORT.csv') #make sure to tailor this path if needed!
 concepts = np.array(data.iloc[:,0:-1])
 print("\nInstances are:\n",concepts)
 target = np.array(data.iloc[:,-1])
