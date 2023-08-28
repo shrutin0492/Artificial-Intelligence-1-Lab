@@ -1,12 +1,48 @@
-List of Programs:
+# Artificial Intelligence-1 Laboratory Programs
 
-1. Write a program to implement Breadth First Search. 
-2. Write a program to implement Depth First Search.
-3. Write a program to implement the Tower of Hanoi problem.
-4. Write a program to use reinforcement learning through an agent and obtain the results for the grid world example.
-5. For a given set of training data examples stored in a .CSV file, implement and demonstrate the Candidate-Elimination Algorithm to output a description of the set of all hypotheses consistent with the training examples.
-6. Write a program to implement the naïve Bayesian classifier for a sample training data set stored as a .CSV file. Compute the accuracy of the classifier, considering few test data sets.
-7. Write a program to implement the Linear Regression model for a sample training data set stored as a .CSV file.
-8. Write a program to demonstrate the working of the decision tree based ID3 algorithm. Use an appropriate data set for building the decision tree and apply this knowledge to classify a new sample.
-9.  Build an Artificial Neural Network by implementing the Backpropagation algorithm and test the same using appropriate data sets.
-10. Write a python program to use the concepts of Computer Vision to read an image and obtain the gray shading filters modify it and use filters to obtain the edge detection using canny method and face detection.
+This repository contains a collection of programs developed as part of the Artificial Intelligence-1 Laboratory course during my 2nd year ofundergrad.
+## About
+
+- **Google Colab File:** [ai_lab_2023.ipynb](https://colab.research.google.com/github/shrutin567/ai-lab-2023/blob/main/ai_lab_2023.ipynb)
+- **Data Sets Folder:** [Data sets](Data%20sets/)
+
+## Programs List
+
+1. **Breadth First Search (BFS) Implementation**
+   - Description: This program implements the Breadth First Search algorithm.
+     
+2. **Depth First Search (DFS) Implementation**
+   - Description: This program implements the Depth First Search algorithm.
+
+3. **Tower of Hanoi Problem**
+   - Description: This program solves the Tower of Hanoi problem using a recursive approach.
+
+4. **Reinforcement Learning with Grid World**
+   - Description: This program uses reinforcement learning to solve a grid world example.
+
+5. **Candidate-Elimination Algorithm Implementation**
+   - Description: This program implements the Candidate-Elimination Algorithm and outputs hypotheses consistent with training examples from a CSV file.
+
+6. **Naïve Bayesian Classifier Implementation**
+   - Description: This program implements the naïve Bayesian classifier and computes its accuracy on test data sets stored as CSV files.
+
+7. **Linear Regression Model Implementation**
+   - Description: This program implements the Linear Regression model using a sample training data set stored in a CSV file.
+
+8. **Decision Tree ID3 Algorithm**
+   - Description: This program implements the ID3 algorithm to build a decision tree and classify new samples.
+
+9. **Artificial Neural Network with Backpropagation**
+   - Description: This program builds an Artificial Neural Network using the Backpropagation algorithm and tests it with appropriate data sets.
+
+10. **Computer Vision Concepts: Image Processing**
+    - Description: This program utilizes Computer Vision concepts to process an image, apply gray shading filters, perform edge detection using the Canny method, and perform face detection.
+
+## Data Sets
+
+The data sets used in the programs are located in the [Data sets](Data%20sets/) folder.
+
+## Usage
+
+1. Clone the repository to your local machine.
+2. Open the `ai_lab_2023.ipynb` file in Google Colab to run and experiment with the programs.
