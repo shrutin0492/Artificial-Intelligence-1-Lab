@@ -61,11 +61,11 @@ The data sets used for training and testing the programs are located in the [Dat
 
    Navigate to the directory where you want to store the cloned repository using the `cd` command. For example:
    
-   ```bash
+   ```
    cd Documents
    ```
+   
    Clone the repository by executing the following command (replace your-repo-name with the actual name of your repository):
    
-    ```bash
-   git clone https://github.com/shrutin567/your-repo-name.git
-   ```
+    ``` bash
+    git clone https://github.com/shrutin567/your-repo-name.git
