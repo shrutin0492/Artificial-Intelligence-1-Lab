@@ -2,7 +2,7 @@
 
 This repository contains a collection of programs developed as part of the Artificial Intelligence-1 Laboratory course during the 2nd year of my undergrad.
 
-# About
+# About 
 
 - **Google Colab File:** [ai_lab_2023.ipynb](https://colab.research.google.com/github/shrutin567/ai-lab-2023/blob/main/ai_lab_2023.ipynb)
 - **Data Sets Folder:** [Data sets](Data%20sets/)
@@ -52,6 +52,3 @@ This repository contains a collection of programs developed as part of the Artif
 ## Data Sets
 
 The data sets used for training and testing the programs are located in the [Data sets](Data%20sets/) folder.
-
-## Usage
-
